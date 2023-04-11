@@ -12,5 +12,5 @@ print('num1+num2=',num1+num2)'''
 tup1=eval(input("(1,2,...)형태의 튜플 데이터 입력:"))
 print("튜플자료:",tup1,type(tup1))
 
-list=eval(input("(1,2,...)형태의 리스트 데이터 입력:"))
-print("리스트자료:",list,type(list))
+lst1=eval(input("(1,2,...)형태의 리스트 데이터 입력:"))
+print("리스트자료:",lst1,type(lst1))
